@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.bg-container {
+  background-color: #ffffff;
+  height: 120vh;
+  padding: 15px;
+}
+
+.banner-container {
+  display: flex;
+  flex-direction: column;
+}
